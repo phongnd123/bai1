@@ -24,4 +24,4 @@
 </html>
 ```
 ##giao dien
-![123]("images/2")
+![123]("images/2.png")
