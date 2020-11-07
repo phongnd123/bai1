@@ -1,5 +1,5 @@
 # html_lab1
-'''html
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,6 +22,6 @@
     </div>
 </body>
 </html>
-'''
+```
 ##giao dien
 ![123]("images/2")
